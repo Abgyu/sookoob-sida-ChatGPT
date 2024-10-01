@@ -1,4 +1,4 @@
-Here is the README file translated to Somali for the repository "sookoob-sida-ChatGPT":
+ "sookoob-sida-ChatGPT":
 
 ---
 
