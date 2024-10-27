@@ -6,12 +6,12 @@
 
 Mashruucan waa codsi ku saleysan webka oo isticmaala ChatGPT si uu ula xiriiro isticmaalayaasha. Waxaa lagu dhisay JavaScript, CSS, iyo HTML.
 
-## Tusmada
-- Guudmar
-- Rakibaadda
-- Isticmaalka
+## Tusmadaan waxay ka koobnaandoontaa
+- Guudmar inuu  kuudulmaro any articles
+- Rakibaadda sidee u rakibi kartaa adoo isticmaalaya commds ka npm install
+- Isticmaal fududeeye si fufud  ugu xir API ga Vite 
 - Ka-qaybgalka
-- Shatiga
+- Shatiga yaa iskale ruqsada ama shatiga
 
 ## Guudmar
 [sookoob-sida-ChatGPT](https://sookoob-sida-chat-gpt.vercel.app) waa codsi loogu talagalay in uu si dabiici ah ula xiriiro isticmaalayaasha iyadoo la adeegsanayo ChatGPT. Waxay ujeeddadeedu tahay in la bixiyo khibrad isticmaale oo sahlan oo xiiso leh.
